@@ -2,6 +2,21 @@
 Changes
 =======
 
+
+Version 1.1.x
+=============
+
+1.1.0 - 22/03/2020
+------------------
+
+- Add Pulse-In support from NeoPolus:master(pyFirmata)
+
+1.1.0 - 10/03/2019
+------------------
+
+- Nano board added
+- Iterator daemon now exits properly
+
 Version 1.0.x
 =============
 
